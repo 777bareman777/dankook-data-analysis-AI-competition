@@ -1,0 +1,92 @@
+rfcv_stacking1_1
+
+=> mean logloss=  0.16836696990783534
+
+-----
+
+lrcv_stacking1_1
+
+=> mean logloss=  0.1585105998370776
+
+----
+
+gbcv_stacking1_1
+
+=> mean logloss=  0.1514228936419197
+
+----
+
+etscv_stacking1_1
+
+=> mean logloss=  0.1686096013560333
+
+
+----
+
+adacv_stacking1_1
+
+=> mean logloss=  0.6023628243787725
+
+adacv_stacking1_2
+
+=> mean logloss=  0.165686278824898
+
+----
+
+lgbmcv_stacking1_1
+
+=> mean logloss=  0.15493652163314314
+
+lgbmcv_stcking1_2
+
+=> mean logloss=  0.15575176784398725
+
+lgbmcv_stacking1_3
+
+=> mean logloss=  0.1545048718917065
+
+lgbmcv_stacking1_4
+
+=> mean logloss=  0.1547171122657598
+
+lgbmcv_stacking1_5
+
+=> mean logloss=  0.15292371382329795
+
+----
+
+xgbcv_stacking1_1
+
+=> mean logloss=  0.1536272
+
+xgbcv_stacking1_2
+
+=> mean logloss=  0.152113
+
+xgbcv_stacking1_3
+
+=> mean logloss=  0.1519168
+
+xgbcv_stacking1_4
+
+=> mean logloss=  0.1509612
+
+xgbcv_stacking1_5
+
+=> mean logloss=  0.150786
+
+xgbcv_stacking1_6
+
+=> mean logloss=  0.150842
+
+xgbcv_stacking1_7
+
+=> mean logloss=  0.15092160000000002
+
+xgbcv_stacking1_8
+
+=> mean logloss=  0.1508688
+
+
+
+

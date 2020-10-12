@@ -1,0 +1,108 @@
+polynomial_feature => 공유 완료
+
+lr ver1 logloss=  0.944305214741653
+lr ver2 logloss=  0.9330250097505429
+lr ver3 logloss=  0.9986705805766924
+
+
+feature => 공유 완료
+
+lr ver1 logloss=  0.6148127494526914
+lr ver2 logloss=  0.6652432275536637
+lr ver3 logloss=  0.5866611347086559
+
+----
+
+polynomial_feature => 공유 완료
+
+rf ver1 logloss=  0.17847534038478804
+rf ver2 logloss=  0.1823842130603906
+rf ver3 logloss=  0.19191401752032536
+
+
+feature => 공유 완료
+
+rf ver1 logloss=  0.1756738235711507
+rf ver2 logloss=  0.18006602170060826
+rf ver3 logloss=  0.18894892573729055
+
+----
+
+polynomial_feature => 공유 완료
+
+ets ver1 logloss=  0.21065451174614017
+ets ver2 logloss=  0.20809738230717142
+ets ver3 logloss=  0.23601239743659994
+
+feature => 공유 완료
+
+ets ver1 logloss=  0.2273111960485473
+ets ver2 logloss=  0.22215183628880183
+ets ver3 logloss=  0.2593072512836329
+
+----
+
+polynomial_feature => 공유 완료
+
+gb ver1 logloss=  0.19021619357939198
+gb ver2 logloss=  0.1878284604144182
+gb ver3 logloss=  0.2289812632073945
+
+feature => 공유 완료 ?
+
+gb ver1 logloss=  0.18808971844275812
+gb ver2 logloss=  0.18233101992299666
+gb ver3 logloss=  0.2244297115098788
+
+----
+
+polynomial_feature => 공유 완료
+
+ada ver1 logloss=  0.7424822159754707
+ada ver2 logloss=  0.7448339657248191
+ada ver3 logloss=  0.7621383132707502
+
+polynomial_feature_2 => 공유 완료
+
+ada ver1 logloss=  0.17269371540215528
+ada ver2 logloss=  0.17435350999284419
+ada ver3 logloss=  0.18957159133618676
+
+feature => 공유 완료
+
+ada ver1 logloss=  0.7608728730057486
+ada ver2 logloss=  0.7594955221209734
+ada ver3 logloss=  0.7702238665166516
+
+feature_2 => 공유 완료 ?
+
+ada ver1 logloss=  0.17103077308177256
+ada ver2 logloss=  0.17378066569133804
+ada ver3 logloss=  0.18566106712272823
+
+----
+
+polynomial_feature => 공유 완료
+
+xgb ver1 logloss=  0.15937387594606642
+xgb ver3 logloss=  0.17826745317521073
+
+feature => 공유 완료
+
+xgb ver1 logloss=  0.15862461004521564
+xgb ver2 logloss=  0.15750805407189233
+xgb ver3 logloss=  0.17635201689903848
+
+
+----
+
+polynomial_feature => 공유 완료
+
+lgbm ver1 logloss=  0.16227996285186486
+lgbm ver3 logloss=  0.19331597128908404
+
+feature => 공유 완료
+
+lgbm ver1 logloss=  0.16318885404062294
+lgbm ver2 logloss=  0.1618724940276667
+lgbm ver3 logloss=  0.19618434733841789

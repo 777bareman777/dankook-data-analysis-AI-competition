@@ -1,0 +1,23 @@
+stacking2-lr-1
+
+=> mean logloss=  0.15441102776987964
+
+
+
+stacking2-xgb-1
+
+=> mean logloss=  0.151568
+
+stacking2-xgb-2
+
+=> mean logloss=  0.15156419999999998
+
+stacking2-xgb-3
+
+=> mean logloss=  0.15089979999999997
+
+
+stacking2-xgb-4
+
+=> mean logloss=  0.15030079999999998 ???????
+
